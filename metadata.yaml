@@ -1,5 +1,8 @@
 _repo: Owen-s-Moral-Physiology-or-A-Brief-and-Plain-Treatise-on-the-Population-Question_65293
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65293-h/images/cover.jpg
 creator:
   author:
     agent_name: Owen, Ralph Dale
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '53274'
     url: http://www.gutenberg.org/2009/agents/53274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65293#Owen-s-Moral-Physiology-or-A-Brief-and-Plain-Treatise-on-the-Population-Question
 gutenberg_issued: '2021-05-09'
 gutenberg_type: Text
 identifiers:
